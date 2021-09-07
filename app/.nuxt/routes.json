@@ -1,0 +1,16 @@
+[
+  {
+    "name": "something",
+    "path": "/something",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\something.vue",
+    "chunkName": "pages/something",
+    "_name": "_56198db8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\fast-vue\\\\app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7d56467c"
+  }
+]
